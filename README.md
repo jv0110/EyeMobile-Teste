@@ -1,4 +1,4 @@
-## SCRIPT
+## Scripts disponíveis
 
 Dentro do diretório do projeto, rodar os seguintes comandos:
 
