@@ -1,0 +1,38 @@
+[
+  {
+    "product_id": 0,
+    "product_image": "assets/images/pasteis.jpg",
+    "product_name": "Pastel de queijo",
+    "product_price": 8.0
+  },
+  {
+    "product_id": 1,
+    "product_image": "assets/images/x-bacon.jpg",
+    "product_name": "X-Bacon duplo",
+    "product_price": 10.0
+  },
+  {
+    "product_id": 2,
+    "product_image": "assets/images/onion-rings.jpg",
+    "product_name": "Onion Rings",
+    "product_price": 14.0
+  },
+  {
+    "product_id": 3,
+    "product_image": "assets/images/bacon-empanado.jpg",
+    "product_name": "Bacon Empanado",
+    "product_price": 22.5
+  },
+  {
+    "product_id": 4,
+    "product_image": "assets/images/milk-shake.jpg",
+    "product_name": "Milk Shake",
+    "product_price": 8.0
+  },
+  {
+    "product_id": 5,
+    "product_image": "assets/images/cachorro-quente.jpg",
+    "product_name": "Cachorro quente",
+    "product_price": 8.0
+  }
+]
