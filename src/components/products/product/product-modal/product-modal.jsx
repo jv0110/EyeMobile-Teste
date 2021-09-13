@@ -87,7 +87,7 @@ const Modal = (props) => {
           </div>
           <div className="input-group btn-container">
             <button type="button" className="btn" onClick={saveProduct}>
-              Pedir
+              Adicionar
             </button>
           </div>
         </div>

@@ -96,7 +96,7 @@ const Cart = (props) => {
         </div>
       ));
     } else {
-      return <h3 className="heading">Nenhum pedido feito</h3>;
+      return <h3 className="heading">Carinho vazio</h3>;
     }
   };
 
