@@ -53,7 +53,9 @@ const Payment = (props) => {
 
   const changePaymentStatus = () => {
     const orders = JSON.parse(localStorage.getItem("orders"));
-    const paidOrders = JSON.parse(localStorage.getItem("paidOrders"));
+    let paidOrders = JSON.parse(localStorage.getItem("paidOrders"))
+      ? JSON.parse(localStorage.getItem("paidOrders"))
+      : [];
 
     orders.forEach((order) => {
       if (order.selected) {
