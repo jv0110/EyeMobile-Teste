@@ -1,6 +1,6 @@
-## Available Scripts
+## SCRIPT
 
-In the project directory, you can run:
+Dentro do diretório do projeto, rodar os seguintes comandos:
 
 ### `npm i`
 
